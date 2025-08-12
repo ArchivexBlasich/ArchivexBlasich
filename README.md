@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm Fabricio Blasich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fabricio+Blasich;I+am+a+computer+engineering+studen)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
             <li>🔭 Currently learning frontend development, then moving to backend (full stack path)</li>
             <li>💻 Passionate about software development, networking, and Linux</li>
             <li>💬 Ask me about anything you want, I would love your answer!</li>
+            <li>📂 Completed The Odin Project (HTML, CSS, JavaScript)</li>
             <li>📫 How to reach me: fblasich0@gmail.com</li>
-            <li>💼 Teaching assistant in Programming 1 (2023 - Present)</li>
         </ul>
     </h3>
 </header>
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
     <div id="user-content-toc">
       <ul>
         <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>             Problem Solving</h2></summary>
+          <li><p>Lifelong <strong>Learner</strong> 📖 </p></li>
       </ul>
     </div>
 </div>
