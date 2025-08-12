@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fabricio+Blasich;I+am+a+computer+engineering+studen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Fabricio+Blasich;I+am+a+computer+engineering+student)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
