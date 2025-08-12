@@ -12,17 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> Hey there! I'm Fabricio Blasich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <img id='gif' align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp3aTc0Mnc3NmI3cWs0ZW5mZW5uYTcxcWZycDBwams2OG94ZnRqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owvKdSecsPWrDDjIQ/giphy.gif" width="240">
 <header align="left">
-    <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
             <li>🎓 I'm an advanced Computer Engineering student (UNT) with GPA 8.9</li>
             <li>📍 From Argentina</li>
             <li>🔭 Currently learning frontend development, then moving to backend (full stack path)</li>
             <li>💻 Passionate about software development, networking, and Linux</li>
-            <li>💬 Ask me about anything you want</li>
+            <li>💬 Ask me about anything you want, I would love your answer!</li>
             <li>📫 How to reach me: fblasich0@gmail.com</li>
             <li>💼 Teaching assistant in Programming 1 (2023 - Present)</li>
         </ul>
@@ -41,6 +43,7 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">  
@@ -49,5 +52,10 @@ Here are some ideas to get you started:
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="80">
+    </div>
+    <div id="user-content-toc">
+      <ul>
+        <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>             Problem Solving</h2></summary>
+      </ul>
     </div>
 </div>
